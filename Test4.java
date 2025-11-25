@@ -11,7 +11,8 @@ for(int i=0; i<a.length; i++){
     for(int j=1; j<=a[i]; j++){
         fact=fact*j;
     }
-    System.out.println(fact);
+    System.out.println("factroial of each element :"+fact);
   }
  }
+
 }
