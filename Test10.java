@@ -1,6 +1,6 @@
 package ArrayProgram;
 
-//16)find the maximum value in an array.
+//16)find the minimum value in an array.
 
 public class Test10 {
     public static void main(String[] args) {
@@ -14,3 +14,4 @@ public class Test10 {
         System.out.println(min);
     }
 }
+
